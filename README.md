@@ -1,6 +1,8 @@
 # SkwnFrontendDev-1b-PeterIskandar
 Frontend technical test by Sekawan Media, from design only https://drive.google.com/drive/folders/1Trrwk1-pwmgTMwV9hufCb_KjmbE5u848, all built using HTML and CSS.
 
+Since the design is based on mobile view, i made it for mobile viewport only without any desktop compatibility in mind
+
 **How to start project**
 
 **OPEN ON MOBILE (mobile version on desktop)**
